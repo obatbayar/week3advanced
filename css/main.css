@@ -1,0 +1,173 @@
+
+* {
+	margin: 0;
+	font-family: 'Quicksand', sans-serif;
+}
+.topright ul {
+	float: right;
+	padding-right: 90px;
+	margin-right: 40px;
+}
+li {
+	display: inline-block;
+	padding-right: 40px;
+	padding-left: 35px;
+}
+.topleft {
+	float: left;
+	padding-left: 200px;
+}
+nav {
+	background-color: #A6D2DB;
+	padding-top: 40px;
+	height: 420px;
+}
+#menu {
+	background-color: black;
+	color: white;
+	padding: 10px 20px 10px 20px;
+	border: none;
+	border-radius: 5px;
+}
+#iMac {
+
+	float: right;
+	padding-right: 290px;
+	padding-top: 35px;
+}
+h2 {
+	color: white;
+	padding-top: 80px;
+	padding-left: 140px;
+	text-align: center;
+	font-size: 50px;
+}
+.fa-heart {
+	padding-right: 10px;
+}
+.circle {
+	text-align: center;
+	padding-top: 165px;
+	color: white;
+}
+.content {
+	display: inline-flex;
+	text-align: center;
+/*	padding: 20px 20px 0 20px;*/
+	padding-left: 150px;
+	padding-top: 40px;
+	width: 80%;
+	padding-bottom: 30px;
+}
+#box2 {
+	padding-top: 33px;
+}
+.content p {
+	padding-right: 30px;
+}
+.cartoons {
+	text-align: center;
+	padding-top: 40px;
+	height: 750px;
+	background-color: #99D2A5;
+	color: white;
+}
+.cartoons li {
+	padding-top: 50px;
+}
+#all {
+	background-color: white;
+	padding: 5px 5px 5px 5px;
+    border: solid;
+    border-radius: 5px;
+    margin-right: 40px;
+}
+#web {
+	border: solid;
+    padding: 5px 7px 5px 5px;
+    border-radius: 5px;
+    border-width: 2px;
+}
+.row {
+	display: inline-flex;
+	padding-top: 40px;
+	padding-bottom: 0px;
+}
+.box {
+	padding-right: 30px;
+}
+button {
+	background-color: white;
+	text-align: center;
+	width: 10%;
+	height: 45px;
+	border: none;
+	border-radius: 5px;
+}
+#button {
+	padding-top: 50px;
+}
+/*.img {
+	width: 50%;
+	float: left;
+	padding-top: 60px;
+}*/
+#greycon {
+	border: solid grey;
+	border-radius: 5px;
+	float: left;
+	width: 27%;
+	margin-right: 50px;
+	padding-bottom: 35px;
+}
+.text {
+	color: grey;
+	/*float: right;*/
+	text-align: left;
+	width: 80%;
+}
+.text p {
+	padding-bottom: 10px;
+}
+.grey {
+	height: 280px;
+	padding-left: 240px;
+	padding-top: 140px;
+}
+#button1 {
+	background-color: #99D2A5;
+	width: 15%;
+}
+/*hr {
+	border: grey;
+}
+*/
+#button2 {
+	background-color: #A6D2DB;
+	width: 15%;
+}
+#greycon1 {
+	border: solid grey;
+	border-radius: 5px;
+	float: right;
+	width: 27%;
+	margin-right: 200px;
+	padding-bottom: 35px;
+}
+.text1 {
+	color: grey;
+	/*float: right;*/
+	text-align: left;
+	width: 80%;
+}
+.text1 p {
+	padding-bottom: 10px;
+}
+.grey1 {
+	height: 280px;
+	padding-left: 240px;
+	padding-top: 80px;
+}
+hr {
+	 margin: 0 200px 0 235px;
+}
